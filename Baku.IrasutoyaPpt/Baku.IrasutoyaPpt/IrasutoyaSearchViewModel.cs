@@ -44,11 +44,9 @@ namespace Baku.IrasutoyaPpt
 
             ShowTermsCommand = new ActionCommand(() =>
             {
-                Process.Start(IrasutoyaTermPageUrl);
+                new TermInformation().ShowDialog();
             });
         }
-
-        internal static string IrasutoyaTermPageUrl = "http://www.irasutoya.com/p/terms.html";
 
         private IrasutoyaSearchResponse _latestResponse = null;
         private void UpdateResponse(IrasutoyaSearchResponse response)
