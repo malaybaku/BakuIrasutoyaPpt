@@ -33,7 +33,7 @@
     <PublishUrl>C:\Users\style\Documents\VSTO\Publish\Baku.IrasutoyaPpt\</PublishUrl>
     <InstallUrl />
     <TargetCulture>ja</TargetCulture>
-    <ApplicationVersion>0.8.0.4</ApplicationVersion>
+    <ApplicationVersion>0.8.0.6</ApplicationVersion>
     <AutoIncrementApplicationRevision>true</AutoIncrementApplicationRevision>
     <UpdateEnabled>false</UpdateEnabled>
     <UpdateInterval>0</UpdateInterval>

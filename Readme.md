@@ -44,6 +44,7 @@ PowerPointでいらすとやのイラストをシームレスに使うための�
 ## ライセンス
 
 * このアドイン自体はMITライセンスです。
+* このアドインは[HtmlAgilityPack](https://github.com/zzzprojects/html-agility-pack)を使用しています。
 * [いらすとやの利用規約](http://www.irasutoya.com/p/terms.html)を守ったうえでご利用ください。
 
 ライセンスに関連した補足ですが、本アドインを利用すると
